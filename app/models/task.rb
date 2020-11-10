@@ -1,3 +1,3 @@
 class Task < ApplicationRecord
-  validates :title, :details, :completed
+  # validates :title, :details, :completed
 end
